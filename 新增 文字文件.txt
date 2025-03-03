@@ -1,8 +1,7 @@
-安裝 live server
+安裝 liveserver & live sass compiler
 
 rwd框架1 -> boostrape , tailwind
 
 https://fonts.google.com/  取得font的網站
-live sass compiler
 
-目前看到30分
+目前看到55分

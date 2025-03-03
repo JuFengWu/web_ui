@@ -1,3 +1,18 @@
 * {
+  margin: 0;
+  padding: 0;
   font-family: "Noto Sans HK", serif;
+}
+
+.banner {
+  background: linear-gradient(135deg, #00b4b8, #0077b6);
+}
+.singup-form-button{
+  background: #00ADEF;
+}
+.singup-form h1 {
+  color: #00ADEF;
+}
+.singup-form p {
+  color: #00ADEF;
 }/*# sourceMappingURL=style.css.map */
